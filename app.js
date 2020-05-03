@@ -38,7 +38,7 @@ const url ="https://us8.api.mailchimp.com/3.0/lists/8f8c73bb74"
 const options = {
 
   method:"POST",
-  auth : "Tisulp:c04b30bbc5f733672539185b96c8951-us8"
+  auth : "Tisulp:c094b30bbc5f733672539185b96c8951-us8"
 }
 
 
